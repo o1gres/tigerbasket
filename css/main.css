@@ -1,0 +1,92 @@
+p {
+    font-family: Arial;
+    color: #003399;
+}
+
+span.bold_text {
+    font-weight: bold;
+}
+
+.caption-full {
+    position: relative;
+    width: 30%;
+    left: 38%;
+}
+
+div {
+  font-size: 22px;
+}
+
+label {
+    width: 180px; 
+    font-size: 22px;
+}
+
+input {
+  width: 250px;
+  height: 35px;
+}
+
+.bottom {
+    margin-bottom: 20px;
+}
+
+/*input.accedi {
+    float: right;
+    right: 23%;
+    position: relative;
+}*/
+
+.errore {
+    color: red;
+    font-weight: bold;
+    
+}
+
+.border_red {
+  border: 1px solid red !important;
+  border-radius: 3px 3px 3px 3px;
+}
+
+.button {
+  width: 200px;
+  margin-bottom: 30px;
+}
+
+.benvenuto {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.upper {
+  text-transform: capitalize;
+}
+
+.esci {
+  float: right;
+}
+
+.num_accessi {
+  width: 65%;
+  left: 15%;
+}
+
+.stat_accessi {
+  position: relative;
+  width: 900px;
+  left: -100%;
+  margin-bottom: 30px;
+}
+
+.stat_accessi tr > td {
+  border: 1px dotted;
+}
+
+.stat_accessi tbody tr > td {
+  padding: 10px !important;
+}
+
+.num_access {
+  position: relative !important;
+  left: -80px !important;
+}
